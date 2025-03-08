@@ -1,0 +1,6 @@
+﻿  ModelSubiect2.c
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect2\ModelSubiect2\ModelSubiect2.c(32,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect2\ModelSubiect2\ModelSubiect2.c(47,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect2\ModelSubiect2\ModelSubiect2.c(105,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect2\ModelSubiect2\ModelSubiect2.c(201,21): warning C4018: '<': signed/unsigned mismatch
+  ModelSubiect2.vcxproj -> C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect2\x64\Debug\ModelSubiect2.exe
