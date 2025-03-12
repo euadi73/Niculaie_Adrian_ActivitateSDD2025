@@ -1,0 +1,10 @@
+﻿  Seminar3_SDD_Niculaie Adrian.c
+C:\Users\stud\Desktop\SDD\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian.c(23,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\stud\Desktop\SDD\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian.c(24,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\stud\Desktop\SDD\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian.c(24,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Users\stud\Desktop\SDD\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian.c(25,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\stud\Desktop\SDD\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian.c(25,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Users\stud\Desktop\SDD\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian.c(39,20): warning C4047: '<': 'int' differs in levels of indirection from 'int *'
+C:\Users\stud\Desktop\SDD\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian.c(58,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stud\Desktop\SDD\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian\Seminar3_SDD_Niculaie Adrian.c(68,11): warning C4047: '=': 'unsigned char' differs in levels of indirection from 'char *'
+  Seminar3_SDD_Niculaie Adrian.vcxproj -> C:\Users\stud\Desktop\SDD\Seminar3_SDD_Niculaie Adrian\x64\Debug\Seminar3_SDD_Niculaie Adrian.exe

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stud\\Desktop\\SDD\\Seminar3_SDD_Niculaie Adrian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A238E2E9-F027-4F3A-9308-B0D6EBC045CF}|Seminar3_SDD_Niculaie Adrian\\Seminar3_SDD_Niculaie Adrian.vcxproj|C:\\Users\\stud\\Desktop\\SDD\\Seminar3_SDD_Niculaie Adrian\\Seminar3_SDD_Niculaie Adrian\\Seminar3_SDD_Niculaie Adrian.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A238E2E9-F027-4F3A-9308-B0D6EBC045CF}|Seminar3_SDD_Niculaie Adrian\\Seminar3_SDD_Niculaie Adrian.vcxproj|solutionrelative:Seminar3_SDD_Niculaie Adrian\\Seminar3_SDD_Niculaie Adrian.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Seminar3_SDD_Niculaie Adrian.c",
+              "DocumentMoniker": "C:\\Users\\stud\\Desktop\\SDD\\Seminar3_SDD_Niculaie Adrian\\Seminar3_SDD_Niculaie Adrian\\Seminar3_SDD_Niculaie Adrian.c",
+              "RelativeDocumentMoniker": "Seminar3_SDD_Niculaie Adrian\\Seminar3_SDD_Niculaie Adrian.c",
+              "ToolTip": "C:\\Users\\stud\\Desktop\\SDD\\Seminar3_SDD_Niculaie Adrian\\Seminar3_SDD_Niculaie Adrian\\Seminar3_SDD_Niculaie Adrian.c",
+              "RelativeToolTip": "Seminar3_SDD_Niculaie Adrian\\Seminar3_SDD_Niculaie Adrian.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-12T13:09:27.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
