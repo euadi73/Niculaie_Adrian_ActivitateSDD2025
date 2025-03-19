@@ -1,0 +1,29 @@
+﻿  ModelSubiect3.c
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(28,39): warning C4047: '=': 'unsigned char' differs in levels of indirection from 'unsigned char *'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(35,9): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(48,92): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'unsigned char'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(48,75): warning C4024: 'creareProiect': different types for formal and actual parameter 4
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(99,138): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'unsigned char'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(99,121): warning C4024: 'creareProiect': different types for formal and actual parameter 4
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(112,152): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'unsigned char'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(112,135): warning C4024: 'creareProiect': different types for formal and actual parameter 4
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(122,39): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'int'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(122,38): warning C4024: 'creareProiect': different types for formal and actual parameter 4
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(128,37): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'int'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(128,36): warning C4024: 'creareProiect': different types for formal and actual parameter 4
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(307,76): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'int'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(307,75): warning C4024: 'creareProiect': different types for formal and actual parameter 4
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(308,76): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'int'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(308,75): warning C4024: 'creareProiect': different types for formal and actual parameter 4
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(309,75): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'int'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(309,74): warning C4024: 'creareProiect': different types for formal and actual parameter 4
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(310,88): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'int'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(310,87): warning C4024: 'creareProiect': different types for formal and actual parameter 4
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(311,74): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'int'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(311,73): warning C4024: 'creareProiect': different types for formal and actual parameter 4
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(312,78): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'int'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(312,77): warning C4024: 'creareProiect': different types for formal and actual parameter 4
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(313,69): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'int'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(313,68): warning C4024: 'creareProiect': different types for formal and actual parameter 4
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\ModelSubiect3\ModelSubiect3.c(243): warning C4715: 'cautareProiectDupaBeneficiarInHashtable': not all control paths return a value
+  ModelSubiect3.vcxproj -> C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect3\x64\Debug\ModelSubiect3.exe
