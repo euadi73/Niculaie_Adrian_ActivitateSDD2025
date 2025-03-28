@@ -1,0 +1,9 @@
+﻿  ModelSubiect5.c
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect5\ModelSubiect5\ModelSubiect5.c(136,60): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect5\ModelSubiect5\ModelSubiect5.c(137,60): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect5\ModelSubiect5\ModelSubiect5.c(138,60): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect5\ModelSubiect5\ModelSubiect5.c(139,60): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect5\ModelSubiect5\ModelSubiect5.c(140,61): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect5\ModelSubiect5\ModelSubiect5.c(146,52): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect5\ModelSubiect5\ModelSubiect5.c(148,52): warning C4305: 'function': truncation from 'double' to 'float'
+  ModelSubiect5.vcxproj -> C:\Users\adria\OneDrive\Desktop\SDD_Meditatii\ModelSubiect5\x64\Debug\ModelSubiect5.exe
