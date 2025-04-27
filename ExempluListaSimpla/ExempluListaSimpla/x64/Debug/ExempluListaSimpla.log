@@ -1,0 +1,4 @@
+﻿  ExempluListaSimpla.c
+C:\Users\adria\OneDrive\Desktop\ActivitateSDD2025\ExempluListaSimpla\ExempluListaSimpla\ExempluListaSimpla.c(216,48): warning C4047: 'function': 'int' differs in levels of indirection from 'char [4]'
+C:\Users\adria\OneDrive\Desktop\ActivitateSDD2025\ExempluListaSimpla\ExempluListaSimpla\ExempluListaSimpla.c(216,43): warning C4024: 'CautareMasinaDupaHp': different types for formal and actual parameter 2
+  ExempluListaSimpla.vcxproj -> C:\Users\adria\OneDrive\Desktop\ActivitateSDD2025\ExempluListaSimpla\x64\Debug\ExempluListaSimpla.exe
