@@ -1,0 +1,10 @@
+﻿  Lab7.cpp
+C:\Users\adria\OneDrive\Desktop\ActivitateSDD2025\Lab7\Lab7\Lab7.cpp(32,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\adria\OneDrive\Desktop\ActivitateSDD2025\Lab7\Lab7\Lab7.cpp(34,19): error C2440: '=': cannot convert from 'void *' to 'char *'
+      C:\Users\adria\OneDrive\Desktop\ActivitateSDD2025\Lab7\Lab7\Lab7.cpp(34,19):
+      Conversion from 'void*' to pointer to non-'void' requires an explicit cast
+  
+C:\Users\adria\OneDrive\Desktop\ActivitateSDD2025\Lab7\Lab7\Lab7.cpp(38,23): error C2440: '=': cannot convert from 'void *' to 'char *'
+      C:\Users\adria\OneDrive\Desktop\ActivitateSDD2025\Lab7\Lab7\Lab7.cpp(38,23):
+      Conversion from 'void*' to pointer to non-'void' requires an explicit cast
+  
